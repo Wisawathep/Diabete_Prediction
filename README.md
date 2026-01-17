@@ -38,7 +38,7 @@ Python | Scikit-learn | NumPy | Pandas | Matplotlib | Seaborn
 
 ## 🤖 Model Performance
 <div align="center">
-  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/Sugar%20Prices/learning_curve.png" height="600"  />
+  <img src="https://github.com/Wisawathep/Diabete_Prediction/blob/main/result.png" height="600"  />
 </div>
 
 ***
