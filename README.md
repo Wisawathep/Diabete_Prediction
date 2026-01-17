@@ -39,6 +39,10 @@ Python | Scikit-learn | XGBoost | NumPy | Pandas | Matplotlib | Seaborn
 ## 🤖 Model Performance
 <div align="center">
   <img src="https://github.com/Wisawathep/Diabete_Prediction/blob/main/result.png" height="600"  />
+  <img width="12" />
+  <img src="https://github.com/Wisawathep/Diabete_Prediction/blob/main/Calibration%20Curve%20of%20Logistic%20Regression.png" height="600"  />
+  <img width="12" />
+  <img src="https://github.com/Wisawathep/Diabete_Prediction/blob/main/Calibration%20Curve%20of%20XGBoost.png" height="600"  />
 </div>
 
 ***
