@@ -13,7 +13,7 @@ into selecting appropriate models for different healthcare deployment scenarios.
 <h2 align="left">🛠️ Tech Stacks</h2>
 
 ###
-Python | Scikit-learn | NumPy | Pandas | Matplotlib | Seaborn
+Python | Scikit-learn | XGBoost | NumPy | Pandas | Matplotlib | Seaborn
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
